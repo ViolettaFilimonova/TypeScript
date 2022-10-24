@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViolettaFilimonova/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViolettaFilimonova/TypeScript/issues"
+  },
+  "homepage": "https://github.com/ViolettaFilimonova/TypeScript#readme",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
